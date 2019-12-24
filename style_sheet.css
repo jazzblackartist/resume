@@ -1,44 +1,54 @@
-
-.star{
+.star {
   color: #993092;
 }
-.off-star{
+
+.off-star {
   color: #dda6dc;
 }
-h3{
-  color:#993092;
+
+h3 {
+  color: #993092;
 }
-.profile-container{
+
+.profile-container {
   background-color: white;
   width: 60%;
 }
-.work-container{
+
+.work-container {
   background-color: white;
   margin-left: 30%;
   margin-right: 30%;
-  padding:3%;
+  padding: 3%;
 }
-a{
+
+a {
   text-decoration: none;
   color: #993092;
 }
-a:hover
-{
+
+a:hover {
   color: #dda6dc;
 }
-hr{
+
+hr {
   border-color: #dda6dc;
+  border-width: 5px;
+  border-style: none;
   border-top-style: dotted;
-  border-bottom-style: none;
-  border-left-style: none;
-  border-right-style: none;
-  height: 2px;
-  width: 25%;
+  width: 5%;
 }
-.skills-container{
-  background-color:#eae8e8;
+
+.skills-container {
+  background-color: #eae8e8;
   padding: 20px;
 }
-img{
-  border-radius:25% 10%;
+
+img {
+  border-radius: 25% 10%;
+}
+
+.education-container {
+  margin-left: 30%;
+  margin-right: 30%;
 }
