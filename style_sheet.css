@@ -1,0 +1,44 @@
+
+.star{
+  color: #993092;
+}
+.off-star{
+  color: #dda6dc;
+}
+h3{
+  color:#993092;
+}
+.profile-container{
+  background-color: white;
+  width: 60%;
+}
+.work-container{
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding:3%;
+}
+a{
+  text-decoration: none;
+  color: #993092;
+}
+a:hover
+{
+  color: #dda6dc;
+}
+hr{
+  border-color: #dda6dc;
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  height: 2px;
+  width: 25%;
+}
+.skills-container{
+  background-color:#eae8e8;
+  padding: 20px;
+}
+img{
+  border-radius:25% 10%;
+}
